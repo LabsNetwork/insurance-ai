@@ -1,0 +1,5 @@
+Sample Insurance Policy
+Coverage Details:
+Medical Coverage: Up to $100,000
+Deductible: $500 per claim
+Annual Premium: $1,200
